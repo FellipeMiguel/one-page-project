@@ -1,5 +1,6 @@
 import React from "react";
 import keyConceptsImage from "../../assets/images/key-concepts.png";
+import './style.css';
 
 const Header = () => {
     return (
